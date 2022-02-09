@@ -146,7 +146,7 @@ input.hide {
 }
 
 .round-button-selected {
-    background-color: #0174DF;
+    background-color: rgb(223, 219, 1);
     /* Green */
     border: none;
     color: white;
@@ -164,7 +164,7 @@ input.hide {
 }
 
 .round-button-unselected {
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(255, 255, 255, 0.8);
     /* Green */
     border: none;
     color: white;

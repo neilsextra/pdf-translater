@@ -307,9 +307,9 @@ $(function() {
 
     });
 
-    $('#analyze').on('click', (e) => {
+    $('#translate').on('click', (e) => {
 
-        alert("analyze");
+        alert("translate");
 
         return false;
 
