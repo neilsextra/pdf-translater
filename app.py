@@ -19,8 +19,6 @@ from pathlib import Path
 import ibm_boto3
 from ibm_botocore.client import Config, ClientError
 
-from PyPDF2 import PdfFileReader, PdfFileWriter
-
 from datetime import datetime, timedelta
 
 views = Blueprint('views', __name__, template_folder='templates')

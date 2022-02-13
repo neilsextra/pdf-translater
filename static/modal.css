@@ -18,7 +18,7 @@
     overflow: auto;
     /* Enable scroll if needed */
     opacity: 0.2;
-    background-color: rgba(12, 83, 175, 0.8);
+    background-color: rgba(80, 79, 0, 1.0);
     /* Black w/ opacity */
 }
 
@@ -45,7 +45,7 @@
     position: relative;
     margin: auto;
     padding: 0;
-    border: 2px solid rgba(12, 83, 175, 0.8);
+    border: 2px solid rgba(80, 79, 0, 1.0);
     background: white;
     width: 70%;
     z-index: 20;

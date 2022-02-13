@@ -133,9 +133,9 @@ input.hide {
     font-size: 12px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     /* Remove borders */
-    color: #006DF0;
-    border: 2px solid #130469;
-    background-color: #aabac9;
+    color: rgba(80, 79, 0, 1.0);
+    border: 2px solid rgba(80, 79, 0, 1.0);
+    background-color: rgba(80, 79, 0, 0.2);
     /* Add a backgriund color */
     padding: 6px 14px;
     margin: 4px 2px;
