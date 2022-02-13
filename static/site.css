@@ -236,8 +236,8 @@ input.hide {
 #droparea {
     width: 120px;
     height: 120px;
-    color: #0174DF;
-    border: 3px solid #0174DF;
+    color: rgba(80, 79, 0, 1.0);
+    border: 3px solid rgba(80, 79, 0, 1.0);
     vertical-align: baseline;
     background-color: rgba(255, 255, 255, 0.4);
     margin: 0 auto;

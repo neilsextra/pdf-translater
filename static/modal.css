@@ -60,7 +60,7 @@
     padding: 2px 2px;
     font-size: 10px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: rgba(12, 83, 175, 0.8);
+    background-color: rgba(80, 79, 0, 1.0);
     letter-spacing: 4px;
     text-indent: 10px;
     color: white;
@@ -70,6 +70,12 @@
 .modal-body {
     padding: 2px 16px;
     display: block;
+}
+
+.modal-button-bar {
+    padding-left: 20px;
+    margin-top: 20px;
+    background-color: rgba(80, 79, 0, 1.0);
 }
 
 .modal-btn {
